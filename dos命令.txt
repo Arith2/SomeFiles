@@ -1,0 +1,3 @@
+netstat -a -n	显示网络连接
+tracert		检查网络路由节点
+telnet		登录远程主机

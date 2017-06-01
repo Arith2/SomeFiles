@@ -1,0 +1,27 @@
+必要软件
+Notepad++
+QQ
+keil 5
+multisim 
+matlab
+altium designer
+百度云
+wps
+万彩动画大师
+虚拟机
+迅雷
+android studio
+pycharm
+电脑管家
+mathematics
+autoCAD
+stm32cubemx
+github
+360安全浏览器
+
+配置java,python
+
+必要存储文件夹
+FileRecv
+BaiduNetDisk
+U盘

@@ -1,0 +1,4 @@
+notepad++
+multisim
+matlab
+mathematic

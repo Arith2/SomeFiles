@@ -1,0 +1,12 @@
+读取图像	imread
+显示图像	imshow
+直接显示	figure
+绘制直方图	imhist(注：必须是灰度图)
+彩色转化为灰度图	rgb2gray
+直方图均衡化	histeq
+
+计算向量和	sum
+向量对应位置相乘	.*
+计算Ax=b	x=A\b
+
+空间滤波

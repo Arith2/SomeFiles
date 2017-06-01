@@ -1,0 +1,8 @@
+在cmd命令行
+latex *.tex	得到.dvi文件
+yap *.dvi	预览文档
+dvipdf *.dvi	将文件转化为pdf
+
+latex技巧
+\documentclass[options]{class}	设定文档类型
+\usepackage[options]{package}	使用宏包
